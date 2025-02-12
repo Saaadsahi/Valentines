@@ -14,9 +14,3 @@ This project utilizes the following programming languages and technologies:
 - CSS
 - SCSS (Sass)
 - JavaScript
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone this repository to your local machine:
